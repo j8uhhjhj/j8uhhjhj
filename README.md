@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Kino</title>
+    <link rel="stylesheet" href="kino.css">
+</head>
+<body>
+  <header>
+    <p>Siema</p>
+  </header>
+</body>
+</html>
