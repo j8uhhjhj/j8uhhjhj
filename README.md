@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Kino</title>
     <link rel="stylesheet" href="kino.css">
 </head>
 <body>
